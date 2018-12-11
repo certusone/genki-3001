@@ -11,5 +11,5 @@ Genesis time to be determined.
 
 ## Getting started
 
-Register on https://genesis.certus.one/registration/3
+Register on https://genesis.certus.one/registration/2
 
