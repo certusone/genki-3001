@@ -15,5 +15,5 @@ for genesis if you intend to be present! Otherwise, you will make life hard for 
 
 Download the final genesis file from `https://raw.githubusercontent.com/certusone/genki-3001/master/genesis-final.json` and store it as `$HOME/.gaiad/config/genesis.json`
 
-Add the following seed nodes `148228bd2d2e155e9edb339a7d664ea1242e6177@seed01.genki.certus.one:26656,89d30fa17d219ace5e57fac71ae64aeca860caea@seed02.genki.certus.one:26656`
+Add the following seed nodes `afffb2d11f03975c9fa3f6442aee9d095d1c0144@83.35.103.119:2656,31d4e17935ced11d83686716077517b40950e45a@51.68.102.103:26656,74745f645a7102f519b0a3169d56eb0767f1bfb6@45.77.53.208:26656`
 
