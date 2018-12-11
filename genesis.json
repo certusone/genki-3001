@@ -1,6 +1,6 @@
 {
     "genesis_time": "2018-12-10T23:00:45.593092Z",
-    "chain_id": "genki-3000",
+    "chain_id": "genki-3001",
     "consensus_params": {
         "block_size": {
             "max_bytes": "50000",
